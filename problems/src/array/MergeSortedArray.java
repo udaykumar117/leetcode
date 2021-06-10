@@ -1,7 +1,7 @@
 package array;
 
 /**
- * Created by gouthamvidyapradhan on 29/07/2017. Given two sorted integer arrays nums1 and nums2,
+ * Given two sorted integer arrays nums1 and nums2,
  * merge nums2 into nums1 as one sorted array.
  *
  * <p>Note: You may assume that nums1 has enough space (size that is greater or equal to m + n) to

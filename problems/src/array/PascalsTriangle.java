@@ -5,8 +5,7 @@ import java.util.Arrays;
 import java.util.List;
 
 /**
- * Created by gouthamvidyapradhan on 25/03/2017.
- *
+ * 
  * <p>Given an index k, return the kth row of the Pascal's triangle.
  *
  * <p>For example, given k = 3, Return [1,3,3,1].

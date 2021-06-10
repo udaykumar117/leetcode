@@ -6,8 +6,6 @@ import java.util.Map;
 import java.util.Set;
 
 /**
- * Created by gouthamvidyapradhan on 25/11/2017.
- *
  * <p>Suppose you are at a party with n people (labeled from 0 to n - 1) and among them, there may
  * exist one celebrity. The definition of a celebrity is that all the other n - 1 people know
  * him/her but he/she does not know any of them.

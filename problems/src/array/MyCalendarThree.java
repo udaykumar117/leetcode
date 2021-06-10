@@ -3,7 +3,7 @@ package array;
 import java.util.*;
 
 /**
- * Created by gouthamvidyapradhan on 12/03/2019 Implement a MyCalendarThree class to store your
+ * Implement a MyCalendarThree class to store your
  * events. A new event can always be added.
  *
  * <p>Your class will have one method, book(int start, int end). Formally, this represents a booking

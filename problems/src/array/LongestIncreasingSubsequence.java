@@ -1,8 +1,6 @@
 package array;
 
 /**
- * Created by gouthamvidyapradhan on 03/12/2017.
- *
  * <p>Given an unsorted array of integers, find the length of longest continuous increasing
  * subsequence (subarray).
  *

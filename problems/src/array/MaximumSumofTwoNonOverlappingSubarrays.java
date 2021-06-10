@@ -3,7 +3,7 @@ package array;
 import java.util.*;
 
 /**
- * Created by gouthamvidyapradhan on 15/08/2019 Given an array A of non-negative integers, return
+ * Given an array A of non-negative integers, return
  * the maximum sum of elements in two non-overlapping (contiguous) subarrays, which have lengths L
  * and M. (For clarification, the L-length subarray could occur before or after the M-length
  * subarray.)

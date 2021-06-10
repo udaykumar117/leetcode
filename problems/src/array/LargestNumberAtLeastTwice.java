@@ -1,7 +1,6 @@
 package array;
 
-/**
- * Created by gouthamvidyapradhan on 09/02/2018. In a given integer array nums, there is always
+/**In a given integer array nums, there is always
  * exactly one largest element.
  *
  * <p>Find whether the largest element in the array is at least twice as much as every other number

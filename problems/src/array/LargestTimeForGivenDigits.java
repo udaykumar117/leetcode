@@ -1,7 +1,6 @@
 package array;
 
-/**
- * Created by gouthamvidyapradhan on 06/08/2019 Given an array of 4 digits, return the largest 24
+/**Given an array of 4 digits, return the largest 24
  * hour time that can be made.
  *
  * <p>The smallest 24 hour time is 00:00, and the largest is 23:59. Starting from 00:00, a time is

@@ -2,8 +2,7 @@ package array;
 
 import java.util.TreeSet;
 
-/**
- * Created by gouthamvidyapradhan on 01/01/2018. There is a garden with N slots. In each slot, there
+/**There is a garden with N slots. In each slot, there
  * is a flower. The N flowers will bloom one by one in N days. In each day, there will be exactly
  * one flower blooming and it will be in the status of blooming since then.
  *

@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * Created by gouthamvidyapradhan on 11/04/2018. Suppose Andy and Doris want to choose a restaurant
+ * Suppose Andy and Doris want to choose a restaurant
  * for dinner, and they both have a list of favorite restaurants represented by strings.
  *
  * <p>You need to help them find out their common interest with the least list index sum. If there

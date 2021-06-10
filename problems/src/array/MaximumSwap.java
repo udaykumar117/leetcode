@@ -1,7 +1,7 @@
 package array;
 
 /**
- * Created by gouthamvidyapradhan on 10/12/2017. Given a non-negative integer, you could swap two
+ * Given a non-negative integer, you could swap two
  * digits at most once to get the maximum valued number. Return the maximum valued number you could
  * get.
  *

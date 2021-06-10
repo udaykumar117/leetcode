@@ -6,7 +6,7 @@ import java.util.Collections;
 import java.util.List;
 
 /**
- * Created by gouthamvidyapradhan on 13/06/2017. Given a collection of intervals, merge all
+ * Given a collection of intervals, merge all
  * overlapping intervals.
  *
  * <p>For example, Given [1,3],[2,6],[8,10],[15,18], return [1,6],[8,10],[15,18].

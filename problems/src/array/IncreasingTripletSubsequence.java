@@ -2,8 +2,7 @@ package array;
 
 import java.util.Arrays;
 
-/**
- * Created by gouthamvidyapradhan on 17/12/2017. Given an unsorted array return whether an
+/** Given an unsorted array return whether an
  * increasing subsequence of length 3 exists or not in the array.
  *
  * <p>Formally the function should: Return true if there exists i, j, k such that arr[i] < arr[j] <

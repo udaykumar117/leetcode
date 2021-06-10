@@ -2,8 +2,7 @@ package array;
 
 import java.util.Stack;
 
-/**
- * Created by gouthamvidyapradhan on 02/03/2019 In a row of trees, the i-th tree produces fruit with
+/**In a row of trees, the i-th tree produces fruit with
  * type tree[i].
  *
  * <p>You start at any tree of your choice, then repeatedly perform the following steps:

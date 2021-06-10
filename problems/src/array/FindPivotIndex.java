@@ -2,8 +2,7 @@ package array;
 
 import java.util.*;
 
-/**
- * Created by gouthamvidyapradhan on 06/08/2019 Given an array of integers nums, write a method that
+/**Given an array of integers nums, write a method that
  * returns the "pivot" index of this array.
  *
  * <p>We define the pivot index as the index where the sum of the numbers to the left of the index

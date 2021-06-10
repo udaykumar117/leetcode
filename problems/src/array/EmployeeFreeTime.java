@@ -3,8 +3,7 @@ package array;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by gouthamvidyapradhan on 08/03/2019 We are given a list schedule of employees, which
+/**We are given a list schedule of employees, which
  * represents the working time for each employee.
  *
  * <p>Each employee has a list of non-overlapping Intervals, and these intervals are in sorted

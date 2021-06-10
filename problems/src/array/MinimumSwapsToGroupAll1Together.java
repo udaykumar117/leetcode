@@ -3,7 +3,7 @@ package array;
 import java.util.*;
 
 /**
- * Created by gouthamvidyapradhan on 23/10/2019 Given a binary array data, return the minimum number
+ * Given a binary array data, return the minimum number
  * of swaps required to group all 1’s present in the array together in any place in the array.
  *
  * <p>Example 1:

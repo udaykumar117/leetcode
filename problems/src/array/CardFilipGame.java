@@ -5,8 +5,6 @@ import java.util.Collections;
 import java.util.List;
 
 /**
- * Created by gouthamvidyapradhan on 04/05/2018.
- *
  * <p>On a table are N cards, with a positive integer printed on the front and back of each card
  * (possibly different).
  *

@@ -1,7 +1,6 @@
 package array;
 
-/**
- * Created by gouthamvidyapradhan on 24/06/2017. Given an unsorted integer array, find the first
+/**Given an unsorted integer array, find the first
  * missing positive integer.
  *
  * <p>For example, Given [1,2,0] return 3, and [3,4,-1,1] return 2.

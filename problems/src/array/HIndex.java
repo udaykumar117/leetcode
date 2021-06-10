@@ -1,7 +1,6 @@
 package array;
 
-/**
- * Created by gouthamvidyapradhan on 12/12/2017. Given an array of citations (each citation is a
+/**Given an array of citations (each citation is a
  * non-negative integer) of a researcher, write a function to compute the researcher's h-index.
  *
  * <p>According to the definition of h-index on Wikipedia: "A scientist has index h if h of his/her

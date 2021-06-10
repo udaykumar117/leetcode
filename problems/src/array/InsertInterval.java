@@ -4,8 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-/**
- * Created by gouthamvidyapradhan on 15/12/2017. Given a set of non-overlapping intervals, insert a
+/** Given a set of non-overlapping intervals, insert a
  * new interval into the intervals (merge if necessary).
  *
  * <p>You may assume that the intervals were initially sorted according to their start times.
