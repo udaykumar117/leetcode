@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Given two integers n and k, return all possible combinations of
+ *  two integers n and k, return all possible combinations of
  * k numbers out of 1 ... n.
  *
  * <p>For example, If n = 4 and k = 2, a solution is:
